@@ -20,11 +20,12 @@ Then we will calculate the distance from each color and find the shortest one.
 
 ### Python version (Recommended) - 2.x or 3.x
 
-### Dependencies - pandas , numpy , opencv , argparse
+### Dependencies - pandas , numpy , opencv , virtual environment
 CAN INSTALL PYTHON PACKAGES BY : 
 - `pip install pandas`
 - `pip install numpy`
 - `pip install opencv-python`
+- `py -3 -m venv venv`
 
 ### About DataSet :
 Colors are made up of 3 primary colors; red, green, and blue. In computers, we define each color value within a range of 0 to 255.
